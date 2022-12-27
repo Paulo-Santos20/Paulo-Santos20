@@ -1,6 +1,6 @@
 ## - 👋   Oii! Me chamo Paulo.
-- 👜 Trabalho atualmente como tecnico suporte de T.I.
-- 🎓 Estudo analise e desenvolvimento de sistemas.
+- 👜 Trabalho atualmente como Técnico Suporte de T.I.
+- 🎓 Estudo Analise e Desenvolvimento de Sistemas.
 
 
 <div align="center">
