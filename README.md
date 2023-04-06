@@ -1,5 +1,5 @@
 ## - 👋   Oii! Me chamo Paulo.
-- 👜 Trabalho atualmente como Técnico Suporte de T.I.
+- 👜 Trabalho atualmente como Desenvolvedor Web na CHS.
 - 🎓 Estudo Analise e Desenvolvimento de Sistemas.
 - Portfólio: https://portfolio-six-gamma-61.vercel.app/
 ## Com o objetivo de se tornar um Desenvolvedor Full Stack.
