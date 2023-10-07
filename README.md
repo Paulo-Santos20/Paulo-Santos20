@@ -1,8 +1,8 @@
 ## - 👋   Oii! Me chamo Paulo.
 - 👜 Trabalho atualmente como Desenvolvedor Web na CHS.
 - 🎓 Estudo Analise e Desenvolvimento de Sistemas.
-- Portfólio: https://portfolio2-psi-three.vercel.app/
-## Com o objetivo de se tornar um Desenvolvedor Full Stack.
+- Portfólio: https://paulo-portfolio3.vercel.app)
+- ## Com o objetivo de se tornar um Desenvolvedor Full Stack.
 
 
 
