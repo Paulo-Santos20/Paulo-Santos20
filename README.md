@@ -1,7 +1,7 @@
 ## - 👋   Oii! Me chamo Paulo.
-- 👜 Trabalho atualmente como Analista na Dulino
-- 🖥️ Faço estágio na Compass Uol como Desenvolvedor Full Stack
-- 🎓 Estudo Analise e Desenvolvimento de Sistemas
+- 👜 Analista de Desenvolvimento de Sistemas
+- 🖥️ Estágio na Compass Uol como Desenvolvedor Full Stack
+- 🎓 Pós graduação em Engenharia de Software
 
 
 
