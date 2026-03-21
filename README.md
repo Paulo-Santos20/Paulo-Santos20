@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Me+chamo+Paulo.;Full+Stack+Developer;Engenharia+de+Software;Java+%7C+C%23+%7C+Python+%7C+JavaScript+%7C+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Me+chamo+Paulo.;Full+Stack+Developer;Engenharia+de+Software;Python+%7C+JavaScript+%7C+Node.js" alt="Typing SVG" />
 </div>
 
 <h3 align="center">💼 Desenvolvedor Full Stack | 🎓 Pós-graduando em Engenharia de Software</h3>
