@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Me+chamo+Paulo.;Full+Stack+Developer;Engenharia+de+Software;Java+%7C+C%23+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Me+chamo+Paulo.;Full+Stack+Developer;Engenharia+de+Software;Java+%7C+C%23+%7C+Python+%7C+JavaScript+%7C+Node.js" alt="Typing SVG" />
 </div>
 
-<h3 align="center">💼 Analista de Desenvolvimento | 🎓 Pós-graduando em Engenharia de Software</h3>
-<p align="center">Atualmente em estágio na Compass Uol como Desenvolvedor Full Stack, focado em aprimorar minhas habilidades em desenvolvimento de software.</p>
+<h3 align="center">💼 Desenvolvedor Full Stack | 🎓 Pós-graduando em Engenharia de Software</h3>
 
 
 <div align="center">
@@ -18,11 +17,9 @@
 
 <div align="center">
   <h3>🛠️ Tecnologias Principais</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" width="40" alt="WordPress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js"/>
 </div>
 
 <br>
