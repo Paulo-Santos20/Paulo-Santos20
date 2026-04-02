@@ -31,6 +31,5 @@
 </div>
 
 <div align="center">
-  <br>
-  <img alt="Snake animation" src="https://github.com/Paulo-Santos20/Paulo-Santos20/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Paulo-Santos20/Paulo-Santos20/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
