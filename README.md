@@ -4,19 +4,6 @@
 
 <h3 align="center">💼 Desenvolvedor Full Stack | 🎓 Pós-graduando em Engenharia de Software</h3>
 
-<div align="center">
-  <h3>🚀 Minhas Estatísticas</h3>
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Santos20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Santos20&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
